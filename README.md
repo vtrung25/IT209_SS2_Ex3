@@ -1,7 +1,5 @@
 # Bài 3 — Nginx static website (mô phỏng cấu hình)
 
-Nguyễn Đăng Dương — CNTT2 — IT209 — SS2.
-
 Thư mục này chứa Server Block mẫu trong `ptit-web.conf` và trang tĩnh tại `html/index.html`. Cấu hình phục vụ nội dung từ `/var/www/ptit-web/html` trên HTTP port 80. Các tệp được chuẩn bị để nộp; không có Nginx nào được cài đặt hoặc cấu hình trên Droplet.
 
 ## Ánh xạ khi triển khai
